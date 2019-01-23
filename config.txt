@@ -1,6 +1,6 @@
-token=NTI2OTI1NTMyNzE0MjM3OTcy.DyerBg.bSRNP3FYkaU5XVq3jkuA0Atp_7g
+token=NTM3NTg2NDY3OTQyNDMyNzY4.DyniLQ.MCS5Av1B0xNpnyXwNwcZT0E_0bs
 owner=433198762706599936
-prefix=#
-game= one is here ..
+prefix=c
+game= baskota..
 stayinchannel=true
 songinstatus=true 
