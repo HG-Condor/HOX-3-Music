@@ -1,6 +1,6 @@
-token=NTM3NTg2NDY3OTQyNDMyNzY4.DyniLQ.MCS5Av1B0xNpnyXwNwcZT0E_0bs
-owner=433198762706599936
-prefix=c
-game= baskota..
+token=NTQxMzgwMDU4NDYwMzIzOTAx.DzenEA.ocBC9SSKj8Xx6Jfvrwk15Nn-C7c
+owner=512625982751113216
+prefix=3
+game= Condor♥
 stayinchannel=true
 songinstatus=true 
