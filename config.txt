@@ -1,6 +1,6 @@
-token=NTQxMzgwMDU4NDYwMzIzOTAx.DzenEA.ocBC9SSKj8Xx6Jfvrwk15Nn-C7c
+token=NTQxMzgwMDU4NDYwMzIzOTAx.D0MFFQ.2yK9FE7XxpJvxmJx7q28yeixDNk
 owner=512625982751113216
 prefix=3
-game= Condor♥
+game=Creative Family
 stayinchannel=true
 songinstatus=true 
