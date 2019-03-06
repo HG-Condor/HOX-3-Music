@@ -1,6 +1,6 @@
-token=NTQxMzgwMDU4NDYwMzIzOTAx.D0MFFQ.2yK9FE7XxpJvxmJx7q28yeixDNk
+token=NTQxMzgwMDU4NDYwMzIzOTAx.D2FJPw.GWoJiz5JxyoqEnkjYHpj7M1ZeEY
 owner=512625982751113216
 prefix=3
-game=Creative Family
+game=Type 3Help
 stayinchannel=true
 songinstatus=true 
