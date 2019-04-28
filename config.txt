@@ -1,5 +1,5 @@
-token=NTQxMzgwMDU4NDYwMzIzOTAx.D2FPPg.039TtZRLoCUH1FQ5MjwDub8sqfU
-owner=512625982751113216
+token=NTcyMDAwNjc3Mzc1NjM5NTcy.XMV7YA.--SkHYEnfpOb2BUhMXKnDTnUSm4
+owner=378614040173346816
 prefix=3
 game=Type 3Help
 stayinchannel=true
